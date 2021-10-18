@@ -73,4 +73,4 @@ Specific data analysis and visualization performed to determine Theater Outcomes
   1. Some potential limitations of this dataset include formatting, completeness, accuracy, adequacy, and qualitative measures and context contributing to each specific outcome.   
 * What are some other possible tables and/or graphs that we could create?
 
-  1. To help Louise identify additional specific factors that contribute to a project's success, further data analysis and visualization could be conducted to determine the optimal number of backers and average donation for comparable projects, as well any potential correlations between Kickstarter Staff Pick and Spotlight campaigns and outcomes.  
+  1. To help Louise identify additional specific factors that contribute to a project's success, further data analysis and visualization could be conducted to determine the optimal Number of Backers and Average Donation for comparable projects, as well any potential correlations between Kickstarter Staff Pick and Spotlight campaigns and Outcomes.  
