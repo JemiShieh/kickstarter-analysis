@@ -40,9 +40,9 @@ Specific data analysis and visualization performed to determine Theater Outcomes
     
   * Used SUM() function on each row to add the "Number Successful," "Number Failed," and "Number Canceled" columns to populate the "Total Projects" column
     
-  * Calculated percentages of "successful," "failed," and "canceled" projects based on the data from the "Total Projects," "Number Successful," "Number Failed," and "Number Canceled" columns
+  * Calculated percentage of "successful," "failed," and "canceled" projects based on the data from the "Total Projects," "Number Successful," "Number Failed," and "Number Canceled" columns
     
-* Created line chart with the goal-amount ranges on the x-axis, the percentage of "successful," "failed," or "canceled" projects on the y-axis
+* Created line chart with the goal-amount ranges on the x-axis, and the percentage of "successful," "failed," or "canceled" projects on the y-axis
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/92612370/137681059-e240ec84-cbe6-493a-a8e9-59fc82c7286c.png)
 
